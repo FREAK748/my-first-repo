@@ -1,3 +1,6 @@
+ID:20242184
+NAME:Huang Chen
+ENGLISH NAME:Lloyd
 # Distributed Version Control System Lab 2
 ## Project Introduction
 This is a practice project for learning Git and GitHub collaboration.
