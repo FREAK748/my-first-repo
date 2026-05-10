@@ -3,9 +3,8 @@
 This is a practice project for learning Git and GitHub collaboration.
 
 ### Team Members
-- Name: [Your Full English Name]
-- Student ID: [Your Student ID]
-
+- Name: [Tate]
+- Student ID: [20242190]
 ### Hotkey List
 | Key | Function |
 |-----|----------|
@@ -21,3 +20,4 @@ This is a practice project for learning Git and GitHub collaboration.
 ### Code Block Example
 ```javascript
 console.log("Hello Git!");
+
